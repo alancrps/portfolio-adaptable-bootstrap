@@ -12,6 +12,20 @@ h1 {
 	font-size: 2.5rem;
 }
 
+.seccion-oscuro {
+	background-color: #1b1b32;
+	color: white;
+}
+
+.seccion-titulo {
+	font-size: 2rem;
+	padding: 15px 0;
+	font-family: "Caveat", cursive;
+}
+
+.seccion-texto {
+	font-size: 1.2rem;
+}
 /* Navbar */
 
 .navbar {
@@ -46,6 +60,18 @@ h1 {
 .hero-principal h2 {
 	font-size: 1.5rem;
 	color: #615151;
+}
+
+/* Sobre mi */
+
+.sobre-mi {
+	height: 500px;
+	padding: 10px;
+}
+
+.sobre-mi .contenedor {
+	max-width: 600px;
+	text-align: center;
 }
 
 /* Adaptable */
